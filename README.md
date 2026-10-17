@@ -4,7 +4,7 @@ Used in my Honours thesis: Thermomechanical Controls on the Transition from Wide
 ## Overview 
 This repository contains the python scripts used to run geodynamic experiments testing the transition from wide to narrow continental rifting using the Underworld 2 framework (https://doi.org/10.5281/zenodo.10976370).
 
-These experiments explore the effect of changing the temperature of the geotherm, material strength/rheology, and extension velocity/strain rate. All experiments are based on the Reference Experiment, where a brief summary of each experiment is provided below:
+These experiments explore the effect of varying the temperature of the geotherm, material strength/rheology, and extension velocity/strain rate. All experiments are based on the Reference Experiment, where a brief summary of each experiment is provided below:
 
 | Experiment  | Key Model Constraints |
 | ------------- | ------------- |
