@@ -1,5 +1,5 @@
 # Numerical Experiment Scripts
-Used in my Honours thesis: Thermomechanical Controls on the Transition from Wide to Narrow Continental Rifting 
+Used in my Honours thesis: Thermomechanical controls on the transition from wide to narrow continental rifting
 
 ## Overview 
 This repository contains the python scripts used to run geodynamic experiments testing the transition from wide to narrow continental rifting using the Underworld 2 framework (https://doi.org/10.5281/zenodo.10976370).
